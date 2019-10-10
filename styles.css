@@ -15,3 +15,7 @@ p {
   margin: 50px auto;
   font: 30px Verdana, Geneva, sans-serif;
 }
+
+a {
+  text-decoration: none;
+}
